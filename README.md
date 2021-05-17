@@ -43,11 +43,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Creality Ender 3 v2 Rulman Üzerindeki Toz Nedir?](https://www.muminkoykiran.com.tr/blog/2021/04/ender-3-v2-rulman-uzerindeki-toz-nedir/)
-- [Orange Pi için Node-RED Kurulumu](https://www.muminkoykiran.com.tr/blog/2020/12/orange-pi-icin-node-red-kurulumu/)
-- [Akıllı Duy Kurulumu ve Kullanımı](https://www.muminkoykiran.com.tr/blog/2018/01/akilli-duy-kurulumu-ve-kullanimi/)
-- [Akıllı Ev Asistanım, Artex ile Orange Pi İlk Test Videosu](https://www.muminkoykiran.com.tr/blog/2018/01/akilli-ev-asistanim-artex-ile-orange-pi-ilk-test-videosu/)
-- [Akıllı Ev Asistanım, Artex ile Akıllı Duy Kontrolü](https://www.muminkoykiran.com.tr/blog/2018/01/akilli-ev-asistanim-artex-ile-akilli-duy-kontrolu/)
+- [PhpMyAdmini Manuel Olarak Yükseltme](https://blog.muminkoykiran.com.tr/posts/phpmyadmini-manuel-olarak-yukseltme/)
+- [Creality Ender 3 v2 Rulman Üzerindeki Toz Nedir?](https://blog.muminkoykiran.com.tr/posts/ender-3-v2-rulman-uzerindeki-toz-nedir/)
+- [Enable Google Page Views](https://blog.muminkoykiran.com.tr/posts/enable-google-pv/)
+- [Orange Pi için Node-RED Kurulumu](https://blog.muminkoykiran.com.tr/posts/orange-pi-icin-node-red-kurulumu/)
+- [Customize the Favicon](https://blog.muminkoykiran.com.tr/posts/customize-the-favicon/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.muminkoykiran.com.tr/)
