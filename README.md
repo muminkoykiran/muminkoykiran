@@ -45,9 +45,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [PhpMyAdmini Manuel Olarak Yükseltme](https://blog.muminkoykiran.com.tr/posts/phpmyadmini-manuel-olarak-yukseltme/)
 - [Creality Ender 3 v2 Rulman Üzerindeki Toz Nedir?](https://blog.muminkoykiran.com.tr/posts/ender-3-v2-rulman-uzerindeki-toz-nedir/)
-- [Enable Google Page Views](https://blog.muminkoykiran.com.tr/posts/enable-google-pv/)
 - [Orange Pi için Node-RED Kurulumu](https://blog.muminkoykiran.com.tr/posts/orange-pi-icin-node-red-kurulumu/)
-- [Customize the Favicon](https://blog.muminkoykiran.com.tr/posts/customize-the-favicon/)
+- [Akıllı Duy Kurulumu ve Kullanımı](https://blog.muminkoykiran.com.tr/posts/akilli-duy-kurulumu-ve-kullanimi/)
+- [Akıllı Ev Asistanım, Artex ile Orange Pi İlk Test Videosu](https://blog.muminkoykiran.com.tr/posts/akilli-ev-asistanim-artex-ile-orange-pi-ilk-test-videosu/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.muminkoykiran.com.tr/)
