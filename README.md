@@ -43,11 +43,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sık Kullandığımız PostgreSQL Komutları](https://blog.muminkoykiran.com.tr/posts/sik-kullandigimiz-postgresql-komutlari/)
 - [PhpMyAdmini Manuel Olarak Yükseltme](https://blog.muminkoykiran.com.tr/posts/phpmyadmini-manuel-olarak-yukseltme/)
 - [Creality Ender 3 v2 Rulman Üzerindeki Toz Nedir?](https://blog.muminkoykiran.com.tr/posts/ender-3-v2-rulman-uzerindeki-toz-nedir/)
 - [Orange Pi için Node-RED Kurulumu](https://blog.muminkoykiran.com.tr/posts/orange-pi-icin-node-red-kurulumu/)
 - [Akıllı Duy Kurulumu ve Kullanımı](https://blog.muminkoykiran.com.tr/posts/akilli-duy-kurulumu-ve-kullanimi/)
-- [Akıllı Ev Asistanım, Artex ile Orange Pi İlk Test Videosu](https://blog.muminkoykiran.com.tr/posts/akilli-ev-asistanim-artex-ile-orange-pi-ilk-test-videosu/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.muminkoykiran.com.tr/)
