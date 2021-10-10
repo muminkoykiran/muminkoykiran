@@ -5,7 +5,7 @@
 
 ## I'm a Maker and Developer!!
 
-- 🔭 I’m currently working at Akım Metal | Ar-Ge
+- 🔭 I’m currently working as a DevOps Engineer at AGrup Group Companies.
 
 ### Spotify Playing 🎧
 
