@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Smart Combi Boiler Controller](https://www.youtube.com/watch?v=L2vwUDQo6B8)
 - [Homemade Corsair LT100 Smart RGB Tower - Rainbow Effect](https://www.youtube.com/watch?v=z9Vq6gVluks)
 - [Homemade Corsair LT100 Smart RGB Tower - Video 2](https://www.youtube.com/watch?v=KqL_CRIxx8s)
 - [Homemade Corsair LT100 Smart RGB Tower - Video 1](https://www.youtube.com/watch?v=G7XEtyZDjJI)
 - [Artex | Akılı Ev Asistanı ile Tv Kontrolü](https://www.youtube.com/watch?v=0qDPhQXKgsQ)
-- [Mouse ile Akıllı duy kontrolü](https://www.youtube.com/watch?v=xgbmmgcnMg8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCb0WFqDdebZnHYf5H526zpA)
