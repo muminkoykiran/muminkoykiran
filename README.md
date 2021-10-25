@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Motorlu Kilit Sistemi Prototipi](https://www.youtube.com/watch?v=AotDWK31s_8)
 - [Kalibrasyonu Bozulan Sapık Robot Kedi #shorts](https://www.youtube.com/watch?v=PIUzPvyyTBU)
 - [Jetson Nano 3D Printed Orange Case #shorts](https://www.youtube.com/watch?v=VMKHst-r1K0)
 - [Smart Combi Boiler Controller](https://www.youtube.com/watch?v=L2vwUDQo6B8)
 - [Homemade Corsair LT100 Smart RGB Tower - Rainbow Effect](https://www.youtube.com/watch?v=z9Vq6gVluks)
-- [Homemade Corsair LT100 Smart RGB Tower - Video 2](https://www.youtube.com/watch?v=KqL_CRIxx8s)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCb0WFqDdebZnHYf5H526zpA)
