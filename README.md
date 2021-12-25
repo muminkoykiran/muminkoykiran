@@ -5,7 +5,7 @@
 
 ## I'm a Maker and Developer!!
 
-- 🔭 I’m currently working as a DevOps Engineer at AGrup Group Companies.
+- 🔭 I’m currently working as a DevOps Engineer at Garanti BBVA
 
 ### Spotify Playing 🎧
 
