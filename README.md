@@ -29,11 +29,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Turn Down For What Show /w Robot Cat #shorts](https://www.youtube.com/watch?v=2vr-Fors2Hk)
 - [Robot cat push-up test #shorts](https://www.youtube.com/watch?v=xsNnlOVurFM)
 - [Project: Smart in Wall // 15.04.2020](https://www.youtube.com/watch?v=bb_J6ONfCZc)
 - [Motorlu Kilit Sistemi Prototipi](https://www.youtube.com/watch?v=AotDWK31s_8)
 - [Kalibrasyonu Bozulan Sapık Robot Kedi #shorts](https://www.youtube.com/watch?v=PIUzPvyyTBU)
-- [Jetson Nano 3D Printed Orange Case #shorts](https://www.youtube.com/watch?v=VMKHst-r1K0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCb0WFqDdebZnHYf5H526zpA)
