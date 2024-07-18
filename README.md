@@ -7,10 +7,6 @@
 
 - 🔭 I’m currently working as a DevOps Engineer at Garanti BBVA
 
-### Spotify Playing 🎧
-
-[<img src="https://readme-spotify-status-steel.vercel.app/api/run-spotify-status" alt="yugocu Spotify Playing" width="500" />](https://open.spotify.com/user/yugocu)
-
 
 ### Connect with me:
 
