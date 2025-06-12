@@ -25,11 +25,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Robot cat balance test ep2 #shorts](https://www.youtube.com/shorts/y1X5qtz2ry8)
-- [Robot cat balance test ep1 #shorts](https://www.youtube.com/shorts/hYL2tfR2fH4)
-- [Crayz Robot Cat #shorts](https://www.youtube.com/shorts/2vr-Fors2Hk)
-- [Robot cat push-up test #shorts](https://www.youtube.com/shorts/xsNnlOVurFM)
-- [Project: Smart in Wall // 15.04.2020](https://www.youtube.com/shorts/bb_J6ONfCZc)
+- [Robot cat balance test ep2 #shorts](https://www.youtube.com/watch?v=y1X5qtz2ry8)
+- [Robot cat balance test ep1 #shorts](https://www.youtube.com/watch?v=hYL2tfR2fH4)
+- [Crayz Robot Cat #shorts](https://www.youtube.com/watch?v=2vr-Fors2Hk)
+- [Robot cat push-up test #shorts](https://www.youtube.com/watch?v=xsNnlOVurFM)
+- [Project: Smart in Wall // 15.04.2020](https://www.youtube.com/watch?v=bb_J6ONfCZc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCb0WFqDdebZnHYf5H526zpA)
