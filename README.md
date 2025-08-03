@@ -49,27 +49,6 @@
 
 ➡️ [more blog posts...](https://blog.muminkoykiran.com.tr/)
 
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/muminkoykiran/spotify-now-playing/pull/1) in [muminkoykiran/spotify-now-playing](https://github.com/muminkoykiran/spotify-now-playing)
-2. 🗣 Commented on [#1](https://github.com/muminkoykiran/spotify-now-playing/issues/1) in [muminkoykiran/spotify-now-playing](https://github.com/muminkoykiran/spotify-now-playing)
-3. ❗️ Closed issue [#8](https://github.com/muminkoykiran/free-developer-resources/issues/8) in [muminkoykiran/free-developer-resources](https://github.com/muminkoykiran/free-developer-resources)
-4. 🗣 Commented on [#8](https://github.com/muminkoykiran/free-developer-resources/issues/8) in [muminkoykiran/free-developer-resources](https://github.com/muminkoykiran/free-developer-resources)
-5. 🗣 Commented on [#7](https://github.com/muminkoykiran/free-developer-resources/issues/7) in [muminkoykiran/free-developer-resources](https://github.com/muminkoykiran/free-developer-resources)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  ![muminkoykiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=muminkoykiran&show_icons=true&theme=radical&theme=transparent&hide_border=true)
-</details>
-
 [website]: https://www.muminkoykiran.com.tr/
 [x]: https://x.com/MrKoykiran
 [youtube]: https://www.youtube.com/channel/UCb0WFqDdebZnHYf5H526zpA
